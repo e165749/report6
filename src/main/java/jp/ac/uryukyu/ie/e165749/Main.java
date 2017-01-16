@@ -2,7 +2,7 @@ package jp.ac.uryukyu.ie.e165749;
 
 
 /**
- * Created by tnal on 2016/11/13.
+ * Created by south on 2016/11/13.
  */
 public class Main {
     public static void main(String[] args){
